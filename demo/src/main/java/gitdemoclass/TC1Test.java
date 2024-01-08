@@ -3,7 +3,7 @@ package gitdemoclass;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class TC1 {
+public class TC1Test {
 
 	@Test
 	public void tc1()
