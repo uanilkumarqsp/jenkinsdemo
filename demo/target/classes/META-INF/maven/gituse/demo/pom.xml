@@ -80,7 +80,7 @@
           <version>3.2.3</version>
            <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>parallelcrosstestng2.xml</suiteXmlFile>
+            <suiteXmlFile>parallel.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
         </plugin>
@@ -99,7 +99,7 @@
           <version>3.2.3</version>
            <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>crossbrowsingtestng3.xml</suiteXmlFile>
+            <suiteXmlFile>cross.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
         </plugin>
